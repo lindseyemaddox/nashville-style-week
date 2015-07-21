@@ -1,0 +1,74 @@
+html {
+  font-size: 16px;
+}
+body {
+	-webkit-font-smoothing: antialiased;
+	font-size: 17px;
+}
+
+/* Modules will scale with document */
+header {
+  font-size: 1rem;
+}
+footer {
+  font-size: 1rem;
+}
+section {
+  font-size: 1rem;
+}
+
+.inner {
+	max-width: 1000px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+@black: 	#000;
+@purple: 	#2f1e37;
+@blue:		#064779;
+@kelly:		#0b6b24;
+@grass:		#8b9b44;
+@lime:		#89e664;
+@sky:		#4ca1c4;
+@flower:	#5072fe;
+@red:		#900319;
+@grey:		#9d9d9d;
+@brown:		#82635d;
+@poop:		#aa7421;
+
+h1 {
+	.ostrich-light;
+	font-size: 7.3em;
+	color: #000;
+}
+
+h2 {
+	.ostrich-black;
+	font-size: 1.15em;
+	color: #000;
+}
+
+h3 {
+	.ostrich-bold;
+	font-size: 1.5em;
+	color: @grey;
+	text-align: center;
+}
+
+h4 {
+	.ostrich-black;
+	font-size: 2em;
+	text-align: center;
+	margin: 30px 0;
+	a {
+		color: @grass;
+		&:hover {
+			color: @kelly;
+			.transition;
+		}
+	}
+}
+
+p {
+
+}
