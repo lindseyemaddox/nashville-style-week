@@ -10,7 +10,7 @@
 
 				<img src="/_assets/img/underline.png" alt="underline graphic">
 
-				<h2>Nashville Presonal Stylist, taking the stress out of Making events and everyday life Less Ordinary</h2>
+				<h2>Nashville Personal Stylist, taking the stress out of Making events and everyday life Less Ordinary</h2>
 
 			</div><!--header-left-->
 

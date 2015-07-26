@@ -443,6 +443,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/heather-jones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28062,
+		"inputAbbreviatedPath": "\/_assets\/img\/heather-jones.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/heather-jones.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/instagram.png": {
 		"fileType": 32768,
 		"ignore": 0,

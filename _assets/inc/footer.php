@@ -9,7 +9,7 @@
 					
 					<img class="instagram" src="/_assets/img/instagram.png" alt="instagram icon">
 
-					<p><a href="https://instagram.com/charliecoal/" target="_blank">Follow Us on Instagram</a></p>
+					<p><a href="https://instagram.com/charliecoal/" target="_blank">Follow NSW on Instagram</a></p>
 
 				</div><!--left-->
 

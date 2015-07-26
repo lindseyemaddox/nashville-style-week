@@ -4,6 +4,10 @@
 <section>
 
 	<div class="inner">
+		
+		<div class="heather"><img src="/_assets/img/heather-jones.jpg" alt="Heather Jones" title="Nashville Stylist Heather Jones"></div><!--heather-->
+		
+		<div class="about"><p>Meet Nashville Stylist Heather Jones. Heather excels in professional design options for your home, event, or personal attire.</p></div>
 
       	<div id="options" class="clearfix">
 
@@ -57,7 +61,7 @@
 
 	<div class="inner">
 		
-		<h4><a href="mailto:charliecoal@comcast.net">Contact Us!</a></h4>
+		<h4><a href="mailto:charliecoal@comcast.net">Contact Heather</a></h4>
 
 	</div><!--inner-->
 
